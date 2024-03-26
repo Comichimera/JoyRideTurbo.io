@@ -82,6 +82,9 @@ span {
 tr:nth-child(even) {
     background-color: #201333;
 }
+tr:nth-child(odd) {
+    background-color: #382159;
+}
 tr:hover {
     background-color: #292343;
 }
