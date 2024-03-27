@@ -91,3 +91,31 @@ tr:hover {
 tr:nth-child(odd):hover {
     background-color: #383838;
 }
+
+.content {
+text-align: center;
+}
+
+/* unvisited link */
+a:link {
+color: aquamarine;
+}
+
+/* visited link */
+a:visited {
+color: aquamarine;
+}
+
+/* mouse over link */
+a:hover {
+color: aquamarine;
+}
+
+/* selected link */
+a:active {
+color: aquamarine;
+}
+
+a.button {
+    color: black;
+}
