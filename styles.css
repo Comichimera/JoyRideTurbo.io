@@ -119,3 +119,11 @@ color: aquamarine;
 a.button {
     color: black;
 }
+
+.profile-pic {
+    width: 30px; /* Adjust the size as needed */
+    height: 30px; /* Adjust the size as needed */
+    border-radius: 50%; /* Makes the image circular, adjust or remove for a square */
+    margin-right: 5px; /* Adds some space between the image and the text */
+    vertical-align: middle; /* Aligns the image with the middle of the text */
+  }
