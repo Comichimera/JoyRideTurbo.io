@@ -9,6 +9,7 @@ font-weight: bold;
 .main-container {
 padding: 0 30%;
 box-shadow: inset 0 0 10px #000;
+text-align: center;
 }
 .content {
 background-color: #030303;
@@ -126,4 +127,8 @@ a.button {
     border-radius: 50%; /* Makes the image circular, adjust or remove for a square */
     margin-right: 5px; /* Adds some space between the image and the text */
     vertical-align: middle; /* Aligns the image with the middle of the text */
-  }
+}
+
+td.center {
+    text-align: center;
+}
